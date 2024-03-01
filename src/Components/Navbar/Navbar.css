@@ -1,0 +1,14 @@
+.navbar.bg-body-tertiary {
+    background-color: #5a37d1 !important;
+}
+
+@media (max-width: 600px) {
+    .result {
+        display: none;
+    }
+}
+@media (max-width: 450px) {
+    .seacrhBar {
+        width: 140px !important;
+    }
+}
